@@ -1,0 +1,42 @@
+body{
+  margin:0;
+  background-color: #f7f7f7;
+  font-family: "proxima-nova",sans-serif;
+  font-style: normal;
+  font-size: 1rem;
+  color: #454545;
+  font-weight: 400;
+}
+div{
+  display:block;
+}
+#buttoninfo{
+  border: black solid 2px;
+  padding:10px 30px;
+  }
+.he1{
+  height:400px;
+}
+.paraf{
+  font-size: 0.8rem;
+}
+h2{
+  text-align: center;
+}
+#mn{
+  text-align: left;
+}
+/*#asset{
+  width: 366px;
+  height: 549px;
+  position: absolute;
+  margin-top: 0;
+  margin-left: 714px;
+}*/
+a:hover{
+  border-bottom: 2px solid black;
+}
+.ct1{
+  text-align: center;
+
+}
